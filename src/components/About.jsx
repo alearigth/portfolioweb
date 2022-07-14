@@ -14,7 +14,8 @@ const About = () => {
       </div>
 
       <p className="text-xl mt-20">
-      I studied computer science at the National University of San Agustin in arequipa peru, I did a bootcamp of more than 700 hours in the career of full stack developer, I am constantly learning and improving my skills in the field to not fall behind.
+      I studied computer science at the National University of San Agustin in arequipa peru, I did a bootcamp of more than 700 hours in the career of full stack developer, I am constantly learning and improving my skills in the field to not be left behind, I am passionate about the field of frontend, and my work is developed with the react library in which I specialize and with which I am constantly growing.
+      
       </p>
     </div>
   </div>

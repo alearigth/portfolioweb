@@ -12,16 +12,12 @@ export const NavBar = () => {
       link: "home",
     },
     {
-      id: 2,
-      link: "about",
-    },
-    {
-      id: 3,
-      link: "portfolio",
-    },
-    {
       id: 4,
       link: "experience",
+    },
+    {
+      id: 2,
+      link: "about",
     },
     {
       id: 5,
